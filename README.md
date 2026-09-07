@@ -88,4 +88,3 @@ bun index.ts
 - Add README sections for API endpoints and frontend UI flows when the routes are stabilized.
 - Add CI steps for Prisma migrations, type checking, and frontend build validation.
 
-If you'd like, I can: validate and expand the API documentation, add example environment files, or set up a small Docker Compose file to run Postgres locally for development.
